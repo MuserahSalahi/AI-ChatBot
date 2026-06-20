@@ -1,0 +1,3 @@
+#ignore some files
+.env
+chat_sessions.json
