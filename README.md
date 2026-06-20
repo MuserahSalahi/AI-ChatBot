@@ -244,8 +244,8 @@ This project was designed and developed by **Muserah Salahi** as part of continu
 
 ### Connect
 
-* LinkedIn: Muserah Salahi
-* GitHub: MuserahSalahi
+* LinkedIn: https://www.linkedin.com/in/muserah-salahi/
+* GitHub: https://github.com/MuserahSalahi
 
 ---
 
